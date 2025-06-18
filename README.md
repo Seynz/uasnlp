@@ -11,7 +11,7 @@ Repositori ini menyimpan resource untuk preprocessing teks Bahasa Indonesia, ter
 
 ### 2. Lexicon Sentimen Positif dan Negatif
 - **Sumber**: [fajri91/InSet](https://github.com/fajri91/InSet/tree/master)  
-- **File**: `positive.txt` dan `negative.txt`  
+- **File**: `positive.tsv` dan `negative.tsv`  
 - **Format**: TXT (satu kata per baris)  
 - **Fungsi**: Untuk ekstraksi fitur berbasis lexicon atau analisis sentimen berbasis kamus.
 
