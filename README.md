@@ -1,7 +1,3 @@
-# 📘 Indonesian Text Preprocessing Resources
-
-Repositori ini menyimpan resource untuk preprocessing teks Bahasa Indonesia, terutama untuk keperluan analisis sentimen, deteksi bahasa kasar (abusive language), dan klasifikasi teks.
-
 ## 📁 Resource yang Digunakan
 
 ### 1. Kamus Alay
